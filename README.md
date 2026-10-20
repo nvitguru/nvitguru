@@ -12,7 +12,7 @@ My focus is **applied AI that is useful, safe and cheap to run**: grounding mode
 |---|---|---|
 | [**Chattiv**](https://github.com/nvitguru/chattiv-casestudy): website live chat | **Ava**, an opt-in AI agent (Claude) that answers visitors from each business's own knowledge: an always-on business brief plus retrieval over its FAQ and crawled website | Human-first design with hand-off to a person; refuses to invent prices or policies; metered per chat. About **$0.07 to $0.10 per AI chat**, versus roughly $0.99 at larger live-chat vendors (checked October 2026) |
 | [**Texttive**](https://github.com/nvitguru/texttive-casestudy): business texting | **Smart Replies**: drafted replies and automatic answers to customer texts, plus an **AI Compliance Check** that screens messages against carrier rules | Consent and opt-out rules the AI can never override; automatic pause and hand-off to a human; usage-based pricing ($19/month + $0.02 per reply) |
-| **RepComet**: review and reputation management (case study coming soon) | **AI reply drafts** for Google reviews and AI insights from customer feedback | The owner always reviews and posts replies; built around a strict "no review gating" rule (every customer gets the same choice, as Google and the FTC require) |
+| [**RepComet**](https://github.com/nvitguru/repcomet-casestudy): review and reputation management | **AI reply drafts** for Google reviews and AI insights from customer feedback | The owner always reviews and posts replies; built around a strict "no review gating" rule (every customer gets the same choice, as Google and the FTC require) |
 
 ## AI that runs the business
 
@@ -38,6 +38,6 @@ Behind the products, Social Points Media operates as a set of specialist AI "dep
 - [Texttive](https://github.com/nvitguru/texttive-casestudy): business texting with AI Smart Replies
 - [ToroDocs](https://github.com/nvitguru/torodocs-casestudy): e-signatures
 - [CrexiPay](https://github.com/nvitguru/crexipay-casestudy): invoicing and payments on Stripe
-- RepComet: reviews and reputation (coming soon)
+- [RepComet](https://github.com/nvitguru/repcomet-casestudy): reviews and reputation, with AI reply drafts
 
 📫 Social Points Media: [socialpointsmedia.com](https://www.socialpointsmedia.com)
